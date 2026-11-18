@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Asmita 🎧
 
-<!--
-**asmitavj7-oss/asmitavj7-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game audio designer & sound engineer based in Leeds, UK.
+MSc Sound and Music for Interactive Games (Leeds Beckett University).
 
-Here are some ideas to get you started:
+## 🔊 What I do
+- Interactive audio: FMOD, Wwise, Unity, Unreal Engine 5
+- Sound design, Foley, ADR and location recording
+- Mixing, dubbing and post-production QC for film and series
+- Spatial audio and sound-only horror (MSc research)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools
+FMOD · Wwise · Unity · Unreal Engine · Pro Tools · Reaper · Logic Pro · Ableton Live · iZotope RX · Max/MSP
+
+## 📫 Find me
+- LinkedIn: [asmita-jaibhave](https://www.linkedin.com/in/asmita-jaibhave-5552452aa)
+- Email: asmitav.j7@gmail.com
+
+Open to full-time game audio and sound roles.
